@@ -37,34 +37,52 @@ Eg.
 4. Using the menu options you can either add events/remove/show/ events or change Calendar for a particular day at time. 
 5. The add events prompts you with options to select time slot and time zones for user convinience. 
 Eg.
-                Enter for which day you want to set Events! 
-                25
-                1. 00:00 - 01:00	 2. 01:00 - 02:00	 3. 02:00 - 03:00	 4. 03:00 - 04:00	 5. 04:00 - 05:00	 
-                6. 05:00 - 06:00	 7. 06:00 - 07:00	 8. 07:00 - 08:00	 9. 08:00 - 09:00	 10. 09:00 - 10:00	 
-                11. 10:00 - 11:00	 12. 11:00 - 12:00	 13. 12:00 - 13:00	 14. 13:00 - 14:00	 15. 14:00 - 15:00	 
-                16. 15:00 - 16:00	 17. 16:00 - 17:00	 18. 17:00 - 18:00	 19. 18:00 - 19:00	 20. 19:00 - 20:00	 
-                21. 20:00 - 21:00	 22. 21:00 - 22:00	 23. 22:00 - 23:00	 24. 23:00 - 00:00	 
-                For 25 May ,enter a Time Slot number to set an Event for ! 
-                Input: 12
-                Do you want to change Time Zone for this Event - Y/N?
-                Input: y
-                Event time zone:
-                 1. CST	 2. EST	 3. MST	 4.PST
-                Input:1
-                Add Appointment Title ! 
-                Chirag Shah Birthday
-                Add Appointment Decription ! 
-                Wish him a Happy Birthday!
+				
+				Enter for which day you want to set Events! 
+				
+				25
+				
+				1. 00:00 - 01:00	 2. 01:00 - 02:00	 3. 02:00 - 03:00	 4. 03:00 - 04:00	 5. 04:00 - 05:00	 
+				6. 05:00 - 06:00	 7. 06:00 - 07:00	 8. 07:00 - 08:00	 9. 08:00 - 09:00	 10. 09:00 - 10:00	 
+				11. 10:00 - 11:00	 12. 11:00 - 12:00	 13. 12:00 - 13:00	 14. 13:00 - 14:00	 15. 14:00 - 15:00	 
+				16. 15:00 - 16:00	 17. 16:00 - 17:00	 18. 17:00 - 18:00	 19. 18:00 - 19:00	 20. 19:00 - 20:00	 
+				21. 20:00 - 21:00	 22. 21:00 - 22:00	 23. 22:00 - 23:00	 24. 23:00 - 00:00	
+				
+				For 25 May ,enter a Time Slot number to set an Event for ! 
+				
+				12
+				
+				Do you want to change Time Zone for this Event - Y/N?
+				
+				y
+				
+				Event time zone:
+				 1. CST	 2. EST	 3. MST	 4.PST
+				 
+				1
+
+				Add Appointment Title ! 
+
+				Chirag Shah Birthday
+
+				Add Appointment Decription ! 
+
+				Wish him a Happy Birthday!
      
 6. You can see set events by selecting option to see events from the menu.
 Eg.
-              Enter the day for which you want to see Events! 
-              25
-              Events for :25 May 2018
-              1. 00:00 - 01:00 :  	 2. 01:00 - 02:00 :  	 3. 02:00 - 03:00 :  	 4. 03:00 - 04:00 :  	 5. 04:00 - 05:00 :  	 
-              6. 05:00 - 06:00 :  	 7. 06:00 - 07:00 :  	 8. 07:00 - 08:00 :  	 9. 08:00 - 09:00 :  	 10. 09:00 - 10:00 :  	 
-              11. 10:00 - 11:00 :  	 12. 11:00 - 12:00 : Chirag Shah Birthday
-              13. 12:00 - 13:00 :  	 14. 13:00 - 14:00 :  	 15. 14:00 - 15:00 :  	 
-              16. 15:00 - 16:00 :  	 17. 16:00 - 17:00 :  	 18. 17:00 - 18:00 :  	 19. 18:00 - 19:00 :  	 20. 19:00 - 20:00 :  	 
-              21. 20:00 - 21:00 :  	 22. 21:00 - 22:00 :  	 23. 22:00 - 23:00 :  	 24. 23:00 - 00:00 :
+
+
+        Enter the day for which you want to see Events! 
+
+        25
+
+        Events for :25 May 2018
+
+        1. 00:00 - 01:00 :  	 2. 01:00 - 02:00 :  	 3. 02:00 - 03:00 :  	 4. 03:00 - 04:00 :  	 5. 04:00 - 05:00 :  	 
+        6. 05:00 - 06:00 :  	 7. 06:00 - 07:00 :  	 8. 07:00 - 08:00 :  	 9. 08:00 - 09:00 :  	 10. 09:00 - 10:00 :  	 
+        11. 10:00 - 11:00 :  	 12. 11:00 - 12:00 : Chirag Shah Birthday
+         13. 12:00 - 13:00 :  	 14. 13:00 - 14:00 :  	 15. 14:00 - 15:00 :  	 
+        16. 15:00 - 16:00 :  	 17. 16:00 - 17:00 :  	 18. 17:00 - 18:00 :  	 19. 18:00 - 19:00 :  	 20. 19:00 - 20:00 :  	 
+        21. 20:00 - 21:00 :  	 22. 21:00 - 22:00 :  	 23. 22:00 - 23:00 :  	 24. 23:00 - 00:00 :  
                
