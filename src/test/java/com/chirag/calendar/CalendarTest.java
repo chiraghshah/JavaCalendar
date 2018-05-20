@@ -12,7 +12,7 @@ import org.junit.Test;
 
 
 /**
- * Unit test for Calendar.
+ * Unit test for Calendar..
  */
 @RunWith(JUnitParamsRunner.class)
 public class CalendarTest 
